@@ -11,7 +11,7 @@
 
   <p align="center">
     TECHNOLOGY : A Gesture based Tool for Sterile Browsing of Radiology Images<br />
-    TEAM ID    : PNT2022TMID18665 <br />
+    TEAM ID    : PNT2022TMID18682 <br />
     BATCH NO   : B4-4M6E <br />  
   </p>
 </p>
