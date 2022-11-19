@@ -5,3 +5,4 @@
 - [x] SOURCE CODE
 - [x] FLASK
 - [x] MODEL BUILDING
+- [x] DEMO VIDEO 
